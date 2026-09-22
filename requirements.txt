@@ -3,3 +3,4 @@ joblib==1.6.0
 python-dotenv==1.2.1
 slowapi==0.1.10
 scikit-learn==1.7.2
+uvicorn[standard]>=0.34.0
