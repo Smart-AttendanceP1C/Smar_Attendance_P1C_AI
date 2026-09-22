@@ -1,0 +1,14 @@
+﻿# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# models
+models/*.joblib
+
+# OS / editor
+.DS_Store
+.vscode/
